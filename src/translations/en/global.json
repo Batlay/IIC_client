@@ -1,0 +1,53 @@
+{
+    "navbar": {
+        "main": "Main page",
+        "about": "About us",
+        "contacts": "Contacts",
+        "tasks": "Tasks",
+        "video": "Video conference",
+        "button": "Login",
+        "button2": "Logout"
+    },
+    "main": {
+        "h1": "International Internship Center",
+        "h2": "IIC offers an internship in the Capital Group LLC",
+        "button": "Learn more"
+    },
+    "login": {
+        "h1": "Welcome!",
+        "h2": "Please, log in in your account",
+        "input1": "Enter login...",
+        "input2": "Enter password...",
+        "button": "Enter",
+        "link": "Forgot password?"
+    },
+    "about": {
+        "h1": "Vladimir Biruk",
+        "h2": "Founder and Principal",
+        "h2_": "Capital Group LLC",
+        "message": " Vladimir graduated in technical sciences, but became interested in banking and investment. Continued his training in management and strategic consulting in the United States of America and England. Back in the 90s helped to establish Belarusian Currency and Stock Exchange. Vladimir, author of numerous publications in banking, economics financial stabily and finance, is now Professor at the Higher School of Finance and Management (HSFM), Moscow, Russia."
+    },
+    "contacts": {
+        "h1": "Let's get in touch",
+        "h2": "We're open for any suggestion or just to have a chat.",
+        "span1": "Address:",
+        "span2": "Phone:",
+        "span3": "Fax:",
+        "address": "Capital Group Pobeditelej Pr. 39 Suite 302 Minsk 220035, Belarus",
+        "form_h1": "Get in touch",
+        "form_p": "You can leave your message here",
+        "name": "Full Name",
+        "subject": "Subject",
+        "email": "Email",
+        "message": "Message",
+        "button": "Send message"
+    },
+    "task": {
+        "button": "See"  
+    },
+    "notify": {
+        "message1": "Credentials are incorrect", 
+        "message2": "Message sent successfully", 
+        "message3": "Oops, something went wrong"
+    }
+}
